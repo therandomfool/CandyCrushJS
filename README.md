@@ -16,3 +16,5 @@
 - appendChild()
 - push()
 - continue
+
+## Drag and Drop methods in JS Used for game play logic
